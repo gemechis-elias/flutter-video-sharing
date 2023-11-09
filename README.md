@@ -1,16 +1,30 @@
-# video_sharing
+# Project Requirements 
+A. Home
+- Create home with the “hide/unhide” the bottom navigation menu functionality.
+- Interactions on the side (chat, share, like etc)
+- You should be able to show the post caption with its “view more” and “view less” functionality
 
-A new Flutter project.
+B. Menu Bar
 
-## Getting Started
+C. Comments
+- View comment
+- Reply comment
+- Add emojis
 
-This project is a starting point for a Flutter application.
+## Screenshot Demo
 
-A few resources to get you started if this is your first Flutter project:
+<div style="display: flex; flex-direction: row;">
+  <img src="screenshot/image_1.jpg" alt="Mobile App Screenshot" width="180" />
+  <img src="screenshot/image_2.jpg" alt="Mobile App Screenshot" width="180" />
+  <img src="screenshot/image_3.jpg" alt="Mobile App Screenshot" width="180" />
+  <img src="screenshot/image_4.jpg" alt="Mobile App Screenshot" width="180" />
+</div>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Developed Using **Flutter Clean Architecture** and the following dependencies 
+- chewie: ^1.7.1
+- video_player: ^2.8.1
+- cached_network_image: ^3.3.0
+- expandable_text: ^2.3.0
+- emoji_picker_flutter: ^1.6.3  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Code Written By: Gemechis Elias
